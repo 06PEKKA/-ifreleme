@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(/Resimler/denemelik\ arka\ plan.jpg)  /* Resim arka plan */
+
+}
+
+.button1 {
+    background-color: #441472; /* Buton 1'in arka plan rengi */
+    color: white; /* Buton 1'in yazı rengi */
+}
+
+.button2 {
+    background-color: #c92c2c; /* Buton 2'nin arka plan rengi */
+    color: white; /* Buton 2'nin yazı rengi */
+}
+
+.button3 {
+    background-color: #051f2b; /* Buton 3'ün arka plan rengi */
+    color: white; /* Buton 3'ün yazı rengi */
+}
